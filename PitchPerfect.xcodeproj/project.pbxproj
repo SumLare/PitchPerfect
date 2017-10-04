@@ -13,6 +13,7 @@
 		06B41B891F83B8E3005D12F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06B41B881F83B8E3005D12F8 /* Assets.xcassets */; };
 		06B41B8C1F83B8E3005D12F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06B41B8A1F83B8E3005D12F8 /* LaunchScreen.storyboard */; };
 		06B41B941F841A51005D12F8 /* PlaySoundsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B41B931F841A51005D12F8 /* PlaySoundsViewController.swift */; };
+		06B41B961F84497A005D12F8 /* playsoundsviewcontroller-audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06B41B951F84497A005D12F8 /* playsoundsviewcontroller-audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		06B41B8B1F83B8E3005D12F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		06B41B8D1F83B8E3005D12F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		06B41B931F841A51005D12F8 /* PlaySoundsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaySoundsViewController.swift; sourceTree = "<group>"; };
+		06B41B951F84497A005D12F8 /* playsoundsviewcontroller-audio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "playsoundsviewcontroller-audio.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				06B41B811F83B8E3005D12F8 /* AppDelegate.swift */,
 				06B41B831F83B8E3005D12F8 /* RecordSoundsViewController.swift */,
 				06B41B931F841A51005D12F8 /* PlaySoundsViewController.swift */,
+				06B41B951F84497A005D12F8 /* playsoundsviewcontroller-audio.swift */,
 				06B41B851F83B8E3005D12F8 /* Main.storyboard */,
 				06B41B881F83B8E3005D12F8 /* Assets.xcassets */,
 				06B41B8A1F83B8E3005D12F8 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 				06B41B841F83B8E3005D12F8 /* RecordSoundsViewController.swift in Sources */,
 				06B41B941F841A51005D12F8 /* PlaySoundsViewController.swift in Sources */,
 				06B41B821F83B8E3005D12F8 /* AppDelegate.swift in Sources */,
+				06B41B961F84497A005D12F8 /* playsoundsviewcontroller-audio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
